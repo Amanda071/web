@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A pagina web é referente a dados de um bordercollie, contendo links que direcionam para endereços com informações especificas da raça
+A pagina web é referente a dados de um bordercollie, contendo links que direcionam para endereços com informações especificas da raça. Você pode visualizar a pagina atravéz desse link [BorderCollie](https://amanda071.github.io/web/).
